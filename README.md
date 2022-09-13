@@ -2,7 +2,7 @@ Hi This is Ravi K R from Karnataka, welcome to my git profile.
 
 # Project Name : 1. Trend-in-2025-home-page ![](https://img.shields.io/badge/Project-1-green)
 
-This is a Simple Trend-in-2025-home-page, I have built it from scratch using HTML and CSS. its great experince i learnt Layout making through Flexbox, Buttons and Hover Effect and explored to deffrent css positions like static, relative, fixed, absolute, sticky. 
+This is a Simple Trend-in-2025-home-page, I have built it from scratch using HTML and CSS. its great experince i learnt Layout making through Flexbox, Buttons, z-index and Hover Effect and explored to deffrent css positions like static, relative, fixed, absolute, sticky. 
 
 
 </br>
